@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_comment_comments_arrs",
+  "info": {
+    "displayName": "comments_arr",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "comment": {
+      "type": "component",
+      "repeatable": true,
+      "component": "comment.comment"
+    }
+  }
+}
